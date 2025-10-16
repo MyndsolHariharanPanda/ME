@@ -36,7 +36,7 @@ Your GitHub contributions are now represented as a Snake game — eat green dots
 
 🎮 Play my GitHub Snake Game!
 
-
+https://myndsol-ts372.github.io/ME/
 
 
 Every push, commit, and edit feeds the snake — keep it growing! 🟩🐍💻
