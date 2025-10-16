@@ -1,42 +1,42 @@
-# 👋 Hi, I’m Myndsol-TS372!
+👋 Hi, I’m Hariharan Panda (Myndsol-TS372)
 
-## 💼 Role / Profession
-<!-- Example: Software Engineer, Student, Data Scientist, etc. -->
-**Role:** _Your role goes here_
+💼 Role / Profession
 
-## 🚀 Top Skills / Technologies
-<!-- Example: TypeScript, Python, React, AWS, etc. -->
-- Skill 1
-- Skill 2
-- Skill 3
-- Skill 4
+Software Developer | Full-Stack Engineer | Angular & .NET Specialist
 
-## 📝 Bio
-<!-- Add a short description about yourself, your goals, or what drives you! -->
-I’m passionate about ________ and love working on projects that _______.  
-I enjoy collaborating with others and always strive to learn something new.
+🚀 Top Skills / Technologies
 
-## 🎉 Fun Facts
-- I love _________
-- My favorite quote is: “__________”
-- Something unique about me: ____________
+Frontend: Angular (v14–16), TypeScript, HTML5, CSS3, Bootstrap, Angular Material
 
----
+Backend: .NET Core, C#, Web API, SQL Server
 
-## 🎮 TODO Game: What’s Next?
-Here’s a fun interactive checklist of goals, learning objectives, or activities!  
-_Tick them off as you progress._
+Database: MS SQL, MySQL
 
-```markdown
-- [ ] Explore a new technology this month
-- [ ] Complete a side project
-- [ ] Collaborate on an open-source repo
-- [ ] Write a technical blog post
-- [ ] Help someone in the community
-```
+Tools & DevOps: Git, GitHub, Postman, VS Code, Visual Studio, Azure DevOps
 
----
+Others: RESTful APIs, JSON, RxJS, npm, Node.js basics
 
-<!-- Optional: Add badges, social links, or more sections as you like! -->
+📝 Bio
 
-_Thanks for visiting my profile!_
+I’m a passionate Software Developer who loves building scalable, user-centric web applications.
+My goal is to craft clean, efficient code and deliver intuitive UI/UX experiences that solve real business problems.
+I enjoy collaborating with cross-functional teams, optimizing performance, and continuously learning emerging technologies in web development.
+
+🎉 Fun Facts
+
+I love problem-solving and debugging complex issues 🧩
+
+My favorite quote is: “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
+Something unique about me: I always aim to automate repetitive tasks and make work more efficient ⚙️
+
+🐍 GitHub Snake Game: Playable Version
+
+Your GitHub contributions are now represented as a Snake game — eat green dots 🟩, grow the snake 🐍, and level up your coding journey!
+
+🎮 Play my GitHub Snake Game!
+
+
+
+
+Every push, commit, and edit feeds the snake — keep it growing! 🟩🐍💻
